@@ -2,7 +2,7 @@ var About = {
 	preload: function() {
  
 	game.load.image('backBtn', 'assets/back.png');
-	game.load.image('background', 'assets/credit.png');
+	game.load.image('background', 'assets/credit.PNG');
 	
  
   },
