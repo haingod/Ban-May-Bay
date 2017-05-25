@@ -4,7 +4,7 @@ var Menu = {
  
     game.load.image('playBtn', 'assets/play.png');
     game.load.image('instructionBtn', 'assets/instructionBtn.png');
-    game.load.image('aboutBtn', 'assets/about.png');
+    game.load.image('aboutBtn', 'assets/About.png');
  
   },
  
